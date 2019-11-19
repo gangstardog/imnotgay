@@ -1,2 +1,9 @@
 cg3vx75o-53a3-qu42-r8t4-2vr266fup4v2
 CAC986536B732913A75EB1ABA2D6994F
+SCSI\DiskADATA______________SU650V8X0
+SCSI\DiskADATA______________SU650
+SCSI\DiskADATA___
+SCSI\ADATA______________SU650V
+ADATA______________SU650V
+GenDisk
+
